@@ -79,19 +79,19 @@ I constantly explore new technologies and improve my development workflow to wri
 
 ---
 
-# 🧠 Current Learning Journey
+# 🧠 Exploring & Improving
 
-```yaml
-Currently Learning:
-  - Advanced Backend Engineering
-  - System Design
-  - AWS Cloud Services
-  - Redis Caching
-  - PostgreSQL
-  - AI Agents
-  - Vector Databases
-  - Scalable Architecture
-  - DevOps Fundamentals
-  - LLM Applications
-  - AI Agents
-  - Redis & PostgreSQL
+<div align="center">
+
+🚀 Backend Engineering  
+☁️ Cloud & DevOps  
+🤖 Artificial Intelligence  
+⚡ Scalable Architectures  
+🧩 System Design  
+📦 Redis & Databases  
+🔍 Vector Databases  
+🛠️ AI Agents & LLMs  
+🌐 Production Ready Systems  
+📈 Performance Optimization  
+
+</div>
