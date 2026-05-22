@@ -97,5 +97,28 @@ I constantly explore new technologies and improve my development workflow to wri
 </div>
 
 
-🌍 Connect With Me
-<div align="center"> <a href="https://linkedin.com/in/ali-raza-karimi"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="https://github.com/razaalikarimi"> <img src="https://skillicons.dev/icons?i=github" /> </a> </div>
+# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ali-raza-karimi">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/razaalikarimi">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:aliraza85211@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+📧 **Email:** aliraza85211@gmail.com
+
+</div>
