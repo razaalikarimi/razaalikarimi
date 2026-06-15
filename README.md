@@ -133,7 +133,7 @@ I constantly explore new technologies and improve my development workflow to wri
 
 
 <div align="center">
-  <h1 align="center">Hi there !, I'm Ali Raza Karimi</h1>
+  <h1 align="center">Hi there!, I'm Ali Raza Karimi</h1>
   <h3 align="center">Full Stack Developer | AI Engineer | System Design Enthusiast</h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Full-Stack+Applications;Designing+AI-Powered+SaaS+Products;Crafting+Robust+Backend+Architectures" alt="Typing SVG" />
 </div>
