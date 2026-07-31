@@ -270,110 +270,81 @@ I am a passionate **Full Stack Developer** and aspiring **AI Engineer** with ove
 
 
 
-
-
 <div align="center">
 
-# Hi, I'm Ali Raza Karimi 👋
+# Ali Raza Karimi
 
-### Full Stack Developer • AI Engineer • MERN Stack
+**Full Stack Developer** — React.js · Node.js · ASP.NET Core · AI/LLM Systems
 
-I build scalable web applications and integrate AI-powered features into production systems.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-raza-karimi)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/razaalikarimi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliraza85211@gmail.com)
+[LinkedIn](https://linkedin.com/in/ali-raza-karimi) · [Email](mailto:aliraza85211@gmail.com) · [GitHub](https://github.com/razaalikarimi)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a Full Stack Developer with 1+ years of experience shipping production applications across React.js/Next.js frontends and Node.js/Express.js + ASP.NET Core backends, with MongoDB and PostgreSQL data layers. I build secure REST APIs with JWT authentication and RBAC, integrate LLM-powered features (Gemini, OpenAI, Vector RAG), and deploy containerized services to the cloud — backed by solid DSA and system design fundamentals.
+Full Stack Developer with 1+ years of experience shipping production applications end-to-end — React.js/Next.js on the frontend, Node.js/Express.js and ASP.NET Core on the backend, MongoDB and PostgreSQL for data. I design secure REST APIs with JWT-based auth and role-based access control, optimize data layers for performance at scale, and ship containerized services with CI/CD pipelines. Recent focus has been on integrating LLM-based features (Gemini, OpenAI, Vector RAG) into production workflows.
 
-- 💼 Currently: **Junior Full Stack Developer** @ NubeEra Technology
-- 🌱 Learning: Advanced System Design, LLM Agents, Vector Databases
-- 💡 Focus: MERN Stack, Next.js, ASP.NET Core, AI Workflow Automation
-- 📫 Reach me: **aliraza85211@gmail.com**
+**Currently:** Junior Full Stack Developer @ NubeEra Technology
+**Exploring:** System design, LLM agents, vector databases
 
 ---
 
-## 💼 Experience
+## Experience
 
-**Junior Full Stack Developer** — NubeEra Technology *(Mar 2025 – Present)*
-- Shipped full-stack MERN features with secure REST APIs, JWT auth, and RBAC in an Agile team
-- Optimized MongoDB aggregation pipelines & SQL stored procedures, cutting query response times by 40%
-- Containerized microservices with Docker, enabling zero-downtime CI/CD deployments
-- Built responsive React.js UI with Redux, achieving 98% cross-browser compatibility
+**Junior Full Stack Developer** — NubeEra Technology · *Mar 2025 – Present*
+- Ship full-stack features (React.js, Node.js, Express.js, MongoDB, ASP.NET Core) with JWT auth and RBAC in an Agile team
+- Optimized MongoDB aggregation pipelines and SQL stored procedures, cutting production query latency by 40%
+- Containerized services with Docker and streamlined Git workflows to enable zero-downtime CI/CD
 
-**Full Stack Developer Intern** — KVL Business Solutions *(Oct 2024 – Jan 2025)*
-- Built AI-powered MERN applications integrating Gemini & OpenAI APIs, saving 10+ hours weekly
-- Improved MongoDB query performance by 35% through strategic indexing
-- Boosted SEO with Next.js SSR and implemented real-time sync with WebSockets
+**Full Stack Developer Intern** — KVL Business Solutions · *Oct 2024 – Jan 2025*
+- Built AI-powered MERN applications integrating Gemini and OpenAI APIs, automating workflows and saving 10+ hours/week
+- Improved MongoDB query performance by 35% through strategic indexing; raised SEO scores via Next.js SSR
 
-**Full Stack Developer Intern** — NIELIT *(May 2024 – Jun 2024)*
-- Built responsive interfaces with React.js, HTML5, CSS3, and Bootstrap
-- Delivered 100% of assigned features on schedule with 25% fewer reported bugs
+**Full Stack Developer Intern** — NIELIT · *May 2024 – Jun 2024*
+- Built responsive interfaces (React.js, HTML5/CSS3, Bootstrap) as part of a 4-member team; shipped all assigned features on schedule with 25% fewer reported bugs
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### [DevKit – AI SaaS Platform](https://github.com/razaalikarimi)
+**[DevKit — AI SaaS Platform](https://github.com/razaalikarimi)**
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Vercel AI SDK`
-Cloud-native AI SaaS featuring **RepoMind AI** — a Vector RAG & LLM agent that automates GitHub PR reviews with context-aware code analysis.
+Cloud-native AI SaaS with fault-tolerant real-time AI streaming. Includes **RepoMind AI**, a Vector RAG + LLM agent that automates GitHub PR reviews with context-aware code analysis.
 
-### [EliteCourses – E-Learning Platform](https://github.com/razaalikarimi)
+**[EliteCourses — E-Learning Platform](https://github.com/razaalikarimi)**
 `MERN` `Razorpay` `Gemini API` `JWT`
-Production platform serving 200+ users with Gemini 2.5 Flash RAG for AI-powered doubt resolution and YouTube transcript ingestion.
+Production platform serving 200+ users, with Gemini 2.5 Flash RAG powering AI-based doubt resolution via YouTube transcript ingestion and semantic chunking.
 
-### [SnapTalk – Real-Time Chat](https://github.com/razaalikarimi)
+**[SnapTalk — Real-Time Chat](https://github.com/razaalikarimi)**
 `MERN` `WebSockets` `Tailwind CSS`
-Scalable chat app with sub-100ms message delivery, typing indicators, and live status tracking — validated by 100+ active users.
+Real-time messaging app with sub-100ms delivery latency, typing indicators, and live presence tracking — validated by 100+ active users.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-**Databases & Cloud**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-**AI & Emerging Tech**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
+| Category | Stack |
+|---|---|
+| **Languages** | JavaScript (ES6+), TypeScript, Java, C#, Python, C++ |
+| **Frontend** | React.js, Next.js, Redux, Tailwind CSS, HTML5/CSS3 |
+| **Backend** | Node.js, Express.js, ASP.NET Core, REST APIs, JWT, RBAC, WebSockets |
+| **Databases** | MongoDB, PostgreSQL, MySQL, SQLite, Prisma ORM |
+| **AI/ML** | Google Gemini, OpenAI API, Vector RAG, Prompt Engineering |
+| **Infra/Tools** | Docker, AWS, CI/CD, Git, Vercel, Postman |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=razaalikarimi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ali's GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaalikarimi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=razaalikarimi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaalikarimi&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
 </div>
 
 ---
 
-<div align="center">
-
-**🎓 B.Tech in CSE** — R.P. Sharma Institute of Technology (CGPA: 8.14/10)
-**🏆 100+ LeetCode problems solved** | Inter-College Hackathon Participant
-
-📫 **aliraza85211@gmail.com**
-
-</div>
+**Education:** B.Tech, Computer Science and Engineering — R.P. Sharma Institute of Technology (CGPA: 8.14/10)
+**Certifications:** MERN Stack Development · Full Stack Dev (NIELIT) · Node.js (Udemy) · Backend Dev (PW Skills)
+**Other:** 100+ LeetCode problems solved · Inter-college hackathon participant
