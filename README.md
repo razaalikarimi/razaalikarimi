@@ -450,3 +450,78 @@ Real-time messaging app with sub-100ms delivery latency, typing indicators, and 
 **Education:** B.Tech, Computer Science and Engineering — R.P. Sharma Institute of Technology (CGPA: 8.14/10)
 **Certifications:** MERN Stack Development · Full Stack Dev (NIELIT) · Node.js (Udemy) · Backend Dev (PW Skills)
 **Other:** 100+ LeetCode problems solved · Inter-college hackathon participant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+# Ali Raza Karimi
+
+**Full Stack Developer** — React.js · Node.js · ASP.NET Core · AI/LLM Systems
+
+[LinkedIn](https://linkedin.com/in/ali-raza-karimi) · [Email](mailto:aliraza85211@gmail.com) · [GitHub](https://github.com/razaalikarimi)
+
+</div>
+
+---
+
+## About
+
+Full Stack Developer with 1+ years of experience shipping production applications end-to-end — React.js/Next.js on the frontend, Node.js/Express.js and ASP.NET Core on the backend, MongoDB and PostgreSQL for data. I design secure REST APIs with JWT-based auth and RBAC, and integrate LLM-based features (Gemini, OpenAI, Vector RAG) into production workflows.
+
+**Currently:** Junior Full Stack Developer @ NubeEra Technology
+
+---
+
+## Projects
+
+**[DevKit — AI SaaS Platform](https://github.com/razaalikarimi)**
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Vercel AI SDK`
+Cloud-native AI SaaS with fault-tolerant real-time AI streaming. Includes **RepoMind AI**, a Vector RAG + LLM agent that automates GitHub PR reviews with context-aware code analysis.
+
+**[EliteCourses — E-Learning Platform](https://github.com/razaalikarimi)**
+`MERN` `Razorpay` `Gemini API` `JWT`
+Production platform serving 200+ users, with Gemini 2.5 Flash RAG powering AI-based doubt resolution via YouTube transcript ingestion and semantic chunking.
+
+**[SnapTalk — Real-Time Chat](https://github.com/razaalikarimi)**
+`MERN` `WebSockets` `Tailwind CSS`
+Real-time messaging app with sub-100ms delivery latency, typing indicators, and live presence tracking — validated by 100+ active users.
+
+---
+
+## Technical Skills
+
+| Category | Stack |
+|---|---|
+| **Languages** | JavaScript (ES6+), TypeScript, Java, C#, Python, C++ |
+| **Frontend** | React.js, Next.js, Redux, Tailwind CSS, HTML5/CSS3 |
+| **Backend** | Node.js, Express.js, ASP.NET Core, REST APIs, JWT, RBAC, WebSockets |
+| **Databases** | MongoDB, PostgreSQL, MySQL, SQLite, Prisma ORM |
+| **AI/ML** | Google Gemini, OpenAI API, Vector RAG, Prompt Engineering |
+| **Infra/Tools** | Docker, AWS, CI/CD, Git, Vercel, Postman |
+
+---
+
+**Education:** B.Tech, Computer Science and Engineering — R.P. Sharma Institute of Technology
+**Reach me:** aliraza85211@gmail.com
