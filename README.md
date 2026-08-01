@@ -443,6 +443,7 @@ Real-time messaging app with sub-100ms delivery latency, typing indicators, and 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=razaalikarimi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaalikarimi&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=razaalikarimi&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="160"/>
 </div>
 
 ---
