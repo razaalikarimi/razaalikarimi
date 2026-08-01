@@ -128,7 +128,7 @@ I constantly explore new technologies and improve my development workflow to wri
 
 
 
-<div align="center">
+<!-- <div align="center">
   <h1 align="center">Hi there!, I'm Ali Raza Karimi</h1>
   <h3 align="center">Full Stack Developer | AI Engineer | System Design Enthusiast</h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Full-Stack+Applications;Designing+AI-Powered+SaaS+Products;Crafting+Robust+Backend+Architectures" alt="Typing SVG" />
@@ -227,25 +227,127 @@ I am a passionate **Full Stack Developer** and aspiring **AI Engineer** with ove
   <a href="mailto:aliraza85211@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</div> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <div align="center">
+
+# Ali Raza Karimi
+
+**Full Stack Developer** — React.js · Node.js · ASP.NET Core · AI/LLM Systems
+
+[LinkedIn](https://linkedin.com/in/ali-raza-karimi) · [Email](mailto:aliraza85211@gmail.com) · [GitHub](https://github.com/razaalikarimi)
+
 </div>
 
+---
 
+## About
 
+Full Stack Developer with 1+ years of experience shipping production applications end-to-end — React.js/Next.js on the frontend, Node.js/Express.js and ASP.NET Core on the backend, MongoDB and PostgreSQL for data. I design secure REST APIs with JWT-based auth and role-based access control, optimize data layers for performance at scale, and ship containerized services with CI/CD pipelines. Recent focus has been on integrating LLM-based features (Gemini, OpenAI, Vector RAG) into production workflows.
 
+**Currently:** Junior Full Stack Developer @ NubeEra Technology
+**Exploring:** System design, LLM agents, vector databases
 
+---
 
+## Experience
 
+**Junior Full Stack Developer** — NubeEra Technology · *Mar 2025 – Present*
+- Ship full-stack features (React.js, Node.js, Express.js, MongoDB, ASP.NET Core) with JWT auth and RBAC in an Agile team
+- Optimized MongoDB aggregation pipelines and SQL stored procedures, cutting production query latency by 40%
+- Containerized services with Docker and streamlined Git workflows to enable zero-downtime CI/CD
 
+**Full Stack Developer Intern** — KVL Business Solutions · *Oct 2024 – Jan 2025*
+- Built AI-powered MERN applications integrating Gemini and OpenAI APIs, automating workflows and saving 10+ hours/week
+- Improved MongoDB query performance by 35% through strategic indexing; raised SEO scores via Next.js SSR
 
+**Full Stack Developer Intern** — NIELIT · *May 2024 – Jun 2024*
+- Built responsive interfaces (React.js, HTML5/CSS3, Bootstrap) as part of a 4-member team; shipped all assigned features on schedule with 25% fewer reported bugs
 
+---
 
+## Projects
 
+**[DevKit — AI SaaS Platform](https://github.com/razaalikarimi)**
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Vercel AI SDK`
+Cloud-native AI SaaS with fault-tolerant real-time AI streaming. Includes **RepoMind AI**, a Vector RAG + LLM agent that automates GitHub PR reviews with context-aware code analysis.
 
+**[EliteCourses — E-Learning Platform](https://github.com/razaalikarimi)**
+`MERN` `Razorpay` `Gemini API` `JWT`
+Production platform serving 200+ users, with Gemini 2.5 Flash RAG powering AI-based doubt resolution via YouTube transcript ingestion and semantic chunking.
 
+**[SnapTalk — Real-Time Chat](https://github.com/razaalikarimi)**
+`MERN` `WebSockets` `Tailwind CSS`
+Real-time messaging app with sub-100ms delivery latency, typing indicators, and live presence tracking — validated by 100+ active users.
 
+---
 
+## Technical Skills
 
+| Category | Stack |
+|---|---|
+| **Languages** | JavaScript (ES6+), TypeScript, Java, C#, Python, C++ |
+| **Frontend** | React.js, Next.js, Redux, Tailwind CSS, HTML5/CSS3 |
+| **Backend** | Node.js, Express.js, ASP.NET Core, REST APIs, JWT, RBAC, WebSockets |
+| **Databases** | MongoDB, PostgreSQL, MySQL, SQLite, Prisma ORM |
+| **AI/ML** | Google Gemini, OpenAI API, Vector RAG, Prompt Engineering |
+| **Infra/Tools** | Docker, AWS, CI/CD, Git, Vercel, Postman |
 
+---
+
+## GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=razaalikarimi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaalikarimi&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
+</div>
+
+---
+
+**Education:** B.Tech, Computer Science and Engineering — R.P. Sharma Institute of Technology (CGPA: 8.14/10)
+**Certifications:** MERN Stack Development · Full Stack Dev (NIELIT) · Node.js (Udemy) · Backend Dev (PW Skills)
+**Other:** 100+ LeetCode problems solved · Inter-college hackathon participant -->
 
 
 
