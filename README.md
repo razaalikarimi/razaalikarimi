@@ -372,7 +372,7 @@ Real-time messaging app with sub-100ms delivery latency, typing indicators, and 
 
 
 
-<div align="center">
+<!-- <div align="center">
 
 # Ali Raza Karimi
 
@@ -449,7 +449,7 @@ Real-time messaging app with sub-100ms delivery latency, typing indicators, and 
 
 **Education:** B.Tech, Computer Science and Engineering — R.P. Sharma Institute of Technology (CGPA: 8.14/10)
 **Certifications:** MERN Stack Development · Full Stack Dev (NIELIT) · Node.js (Udemy) · Backend Dev (PW Skills)
-**Other:** 100+ LeetCode problems solved · Inter-college hackathon participant
+**Other:** 100+ LeetCode problems solved · Inter-college hackathon participant -->
 
 
 
