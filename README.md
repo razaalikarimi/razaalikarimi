@@ -630,17 +630,6 @@ R.P. Sharma Institute of Technology · **2021 – 2025**
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=razaalikarimi&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaalikarimi&layout=compact&theme=default&hide_border=true" height="160" alt="Top Languages"/>
-
-</div>
-
----
 
 ## Connect
 
