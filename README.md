@@ -455,7 +455,204 @@ Real-time messaging app with sub-100ms delivery latency, typing indicators, and 
 
 
 
+Ali Raza Karimi
 
+<div align="center">
+
+Software Engineer / Full Stack Developer
+
+React.js · Next.js · Node.js · Express.js · ASP.NET Core · MongoDB · PostgreSQL · AI/LLM Systems
+
+
+
+
+
+
+</div>
+
+About Me
+
+Software Engineer / Full Stack Developer with 1+ year of experience building and shipping production web applications across frontend, backend, databases, APIs, real-time systems, and cloud deployment.
+
+I work primarily with React.js, Next.js, Node.js, Express.js, ASP.NET Core, MongoDB, and PostgreSQL, with hands-on experience designing secure REST APIs, implementing JWT authentication and role-based access control, optimizing database performance, building real-time applications with WebSockets, and deploying containerized services using Docker and CI/CD.
+
+I also build AI-powered applications using OpenAI APIs, Google Gemini, LLMs, and Vector RAG, including developer productivity tools, intelligent search, and AI-assisted workflows.
+
+What I focus on
+Full-stack web application development
+Secure REST API design and backend engineering
+Authentication and authorization with JWT and RBAC
+Database design, indexing, aggregation, and query optimization
+Real-time systems using WebSockets
+AI/LLM integrations and Vector RAG
+Docker, CI/CD, and cloud deployment
+Clean architecture, scalability, and system design
+
+Currently: Full Stack Engineer @ NubeEra Technologies
+Open to: Software Engineer, SDE-1, Full Stack Developer, Backend Developer, and Frontend Developer opportunities
+Exploring: System Design, LLM Agents, Vector Databases, Scalable Backend Systems
+
+Experience
+Full Stack Engineer — NubeEra Technologies
+
+Sep 2025 – Present
+
+Built and shipped production full-stack features using React.js, Node.js, Express.js, MongoDB, and ASP.NET Core (C#) within an Agile development team.
+Designed and secured RESTful APIs with JWT authentication and Role-Based Access Control (RBAC) to support secure, scalable application workflows.
+Optimized MongoDB aggregation pipelines and SQL stored procedures, reducing production query response times by 40%.
+Containerized microservices with Docker and managed Git workflows to support reliable, zero-downtime CI/CD deployments.
+Full Stack Engineer Intern — NubeEra Technologies
+
+Mar 2025 – Aug 2025
+
+Developed and integrated MERN stack features across React.js, Node.js, Express.js, and MongoDB for production web applications.
+Built and integrated RESTful APIs with JWT authentication, contributing to backend logic, database operations, and secure application workflows.
+Collaborated with the engineering team to debug production issues, optimize application performance, and deliver production-ready features.
+Web Developer Intern — KVL Business Solutions
+
+Oct 2024 – Jan 2025
+
+Built AI-powered MERN applications integrating Google Gemini and OpenAI APIs, automating workflows and saving 10+ hours of manual work weekly.
+Designed scalable RESTful APIs using Node.js and Express.js with custom middleware and robust error handling.
+Improved MongoDB query performance by 35% through strategic indexing and enhanced frontend SEO/performance using Next.js Server-Side Rendering (SSR).
+Implemented reusable React.js components and integrated real-time data synchronization using WebSockets.
+Full Stack Developer Intern — NIELIT
+
+May 2024 – Jun 2024
+
+Built responsive web interfaces using React.js, HTML5, CSS3, and Bootstrap as part of a 4-member team.
+Delivered assigned features on schedule with 25% fewer reported bugs while working on frontend and backend modules.
+Integrated RESTful API endpoints and MySQL-backed services to connect frontend and backend data flows.
+Featured Projects
+DevKit — AI SaaS Platform
+
+Next.js TypeScript Prisma PostgreSQL Clerk Stripe Vercel AI SDK
+
+Cloud-native AI SaaS platform focused on developer productivity with real-time AI response streaming.
+
+Highlights
+
+Built with Next.js and TypeScript with PostgreSQL and Prisma ORM.
+Integrated Clerk authentication and Stripe billing.
+Implemented fault-tolerant real-time AI streaming using the Vercel AI SDK.
+Includes RepoMind AI, a Vector RAG and LLM agent for automated GitHub pull-request reviews.
+Uses context-aware code analysis to improve AI-assisted code review workflows.
+EliteCourses — AI-Powered E-Learning Platform
+
+MERN OpenAI API Razorpay JWT RAG MongoDB
+
+Production-focused e-learning platform serving 200+ users, combining online education with AI-powered doubt resolution.
+
+Highlights
+
+Built and deployed a full-stack MERN e-learning platform.
+Integrated the OpenAI API for AI-powered doubt resolution.
+Implemented RAG with YouTube transcript ingestion and semantic chunking.
+Added JWT cookie authentication and role-based access control for students and educators.
+Integrated Razorpay payment workflows.
+Implemented automated escalation routing for unresolved questions.
+SnapTalk — Real-Time Chat Application
+
+MERN Socket.IO WebSockets JWT Tailwind CSS
+
+Real-time messaging platform designed for fast communication and live user presence.
+
+Highlights
+
+Built a real-time chat application using the MERN stack and WebSockets.
+Achieved sub-100ms message delivery in the application workflow.
+Implemented typing indicators and online/offline presence tracking.
+Secured the backend with JWT authentication.
+Built a responsive UI using Tailwind CSS.
+Validated with 100+ active users.
+Zen-AI-Multi-Agent
+
+React 19 Node.js LangGraph Redis MongoDB AI Agents
+
+Multi-agent AI platform focused on orchestration, intelligent workflows, and developer-oriented AI experiences.
+
+Highlights
+
+Built a multi-agent architecture with a Node.js microservices backend.
+Used LangGraph for agent orchestration.
+Integrated Redis and MongoDB for data and workflow support.
+Built the frontend using React 19.
+Designed an interactive AI workspace for agent-driven workflows.
+StaySphere — Accommodation Marketplace
+
+MERN Maps Real-Time Updates Payments
+
+Online accommodation marketplace focused on responsive UX, booking workflows, and real-time updates.
+
+Highlights
+
+Built accommodation discovery and booking workflows.
+Implemented real-time booking updates.
+Integrated interactive maps and responsive user interfaces.
+Designed secure checkout and user-facing booking flows.
+Technical Skills
+Category	Technologies
+Languages	JavaScript (ES6+), TypeScript, Java, C#, Python, C++
+Frontend	React.js, Next.js, Redux, Tailwind CSS, Bootstrap, HTML5, CSS3
+Backend	Node.js, Express.js, ASP.NET Core, .NET Web API, REST APIs, WebSockets
+Authentication & Security	JWT, RBAC, Authentication, Authorization, Middleware
+Databases	MongoDB, PostgreSQL, MySQL, SQLite, Prisma ORM, Mongoose, Aggregation Pipelines
+AI / LLM	OpenAI API, Google Gemini, LLMs, Vector RAG, Prompt Engineering, AI Agents
+DevOps / Cloud	Docker, AWS, CI/CD, Vercel, Render, Railway
+Tools	Git, GitHub, Postman, Swagger, VS Code, Agile/Scrum
+Engineering Highlights
+Reduced production database query response time by 40% through MongoDB aggregation and SQL optimization.
+Improved MongoDB query performance by 35% through strategic indexing.
+Built an AI-powered e-learning platform serving 200+ users.
+Built a real-time chat platform with sub-100ms message delivery and 100+ active users.
+Automated workflows using AI integrations and saved 10+ hours of manual work weekly.
+Built production-oriented applications spanning frontend, backend, databases, real-time communication, AI, and deployment.
+Education
+
+Bachelor of Technology (B.Tech.) — Computer Science and Engineering
+R.P. Sharma Institute of Technology
+2021 – 2025 · CGPA: 8.14/10
+
+Activities: Inter-College Hackathon Participant · Technical Events · Coding & Software Development
+
+Certifications
+MERN Stack Development
+Full Stack Web Development — NIELIT
+Node.js Backend Development — Udemy
+Backend Development — PW Skills
+Career Essentials in Software Development — Microsoft
+Career Essentials in Generative AI — Microsoft & LinkedIn
+Java with DSA and System Design — PW Skills
+C++ Foundation Program — PW Skills
+Achievements
+Solved 100+ problems on LeetCode
+Participated in an inter-college hackathon
+Hands-on experience with full-stack application development in Agile teams
+Experience across frontend, backend, databases, APIs, real-time systems, AI, and DevOps
+GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=razaalikarimi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaalikarimi&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
+
+</div>
+
+Connect With Me
+
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+</div>
 
 
 
