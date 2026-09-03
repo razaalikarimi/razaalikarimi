@@ -625,7 +625,7 @@ R.P. Sharma Institute of Technology · **2021 – 2025**
 
 **Achievements**
 
-* Solved **100+ problems on LeetCode**
+* Solved **150+ problems on LeetCode**
 * Participated in an **inter-college hackathon**
 
 ---
