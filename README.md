@@ -455,7 +455,7 @@ Real-time messaging app with sub-100ms delivery latency, typing indicators, and 
 
 
 
-<div align="center">
+<!-- <div align="center">
 
 # Ali Raza Karimi
 
@@ -639,10 +639,172 @@ R.P. Sharma Institute of Technology · **2021 – 2025**
 
 [LinkedIn](https://linkedin.com/in/ali-raza-karimi) · [GitHub](https://github.com/razaalikarimi) · [Email](mailto:aliraza85211@gmail.com)
 
+</div> -->
+
+
+<div align="center">
+
+# Ali Raza Karimi
+
+### Software Engineer | Full Stack Developer
+
+**React.js · Next.js · Node.js · Express.js · ASP.NET Core · MongoDB · PostgreSQL · AI/LLMs**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ali-raza-karimi)
+[![GitHub](https://img.shields.io/badge/GitHub-razaalikarimi-181717?style=flat&logo=github)](https://github.com/razaalikarimi)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:aliraza85211@gmail.com)
+
 </div>
 
+---
 
+## About
 
+Software Engineer / Full Stack Developer with **1+ year of experience** building and shipping production web applications across frontend, backend, databases, APIs, real-time systems, and cloud deployment.
+
+My core stack includes **React.js, Next.js, Node.js, Express.js, ASP.NET Core, MongoDB, and PostgreSQL**. I have hands-on experience designing secure REST APIs, implementing **JWT authentication and RBAC**, building real-time applications with **WebSockets**, optimizing database performance, and deploying containerized services using **Docker and CI/CD**.
+
+I also work with **OpenAI, Google Gemini, LLMs, Vector RAG, and multi-agent systems (LangGraph)** to build practical AI-powered features and developer tools.
+
+**Currently:** Junior Full Stack Developer @ NubeEra Technology
+**Open to:** SDE-1 · Software Engineer · Full Stack Developer · Backend Developer · Frontend Developer
+
+---
+
+## Experience
+
+### NubeEra Technology — Junior Full Stack Developer
+**Mar 2025 – Present**
+
+- Shipped full-stack features using **React.js, Node.js, Express.js, MongoDB, and ASP.NET Core** in an Agile team, implementing **JWT authentication and Role-Based Access Control (RBAC)**.
+- Optimized **MongoDB aggregation pipelines and SQL stored procedures**, cutting production query response times by **40%**.
+- Containerized microservices with **Docker** and streamlined Git branching workflows, enabling zero-downtime **CI/CD** deployments.
+- Built responsive React.js UI components with **Redux** state management, achieving **98% cross-browser compatibility**.
+
+### KVL Business Solutions — Full Stack Developer Intern
+**Oct 2024 – Jan 2025**
+
+- Built **AI-powered MERN applications** integrating **Google Gemini and OpenAI APIs**, automating workflows and saving **10+ hours of manual work weekly**.
+- Designed scalable REST APIs with Express.js middleware; improved **MongoDB query performance by 35%** through strategic indexing.
+- Boosted frontend SEO scores using **Next.js server-side rendering** and implemented real-time data sync with **WebSockets and Mongoose ODM**.
+
+### NIELIT — Full Stack Developer Intern
+**May 2024 – Jun 2024**
+
+- Built responsive web interfaces using **React.js, HTML5, CSS3, and Bootstrap** as part of a 4-member team, ensuring cross-browser and cross-device compatibility.
+- Delivered **100% of assigned features on schedule** with **25% fewer reported bugs**.
+- Designed optimized MySQL schemas and integrated RESTful API endpoints connecting frontend and backend.
+
+---
+
+## Featured Projects
+
+### [Zen-AI-Multi-Agent](https://github.com/razaalikarimi/Zen-AI-Multi-Agent)
+`React 19` `Node.js` `LangGraph` `Redis` `MongoDB`
+
+A multi-agent AI platform built with **LangGraph**, where multiple agents collaborate on complex, multi-step workflows.
+
+- Built a **Node.js microservices backend** orchestrating agent workflows with **LangGraph**.
+- Integrated **Redis** for fast state/session management and **MongoDB** for persistent workflow data.
+- Developed an interactive frontend using **React 19** to visualize and interact with agent runs.
+- Designed agent-based task decomposition for AI-powered automation.
+
+> *(Add your specific use case, a live demo link, and any performance numbers here before sharing — this is your strongest differentiator, make it concrete.)*
+
+### [DevKit — AI SaaS Platform](https://github.com/razaalikarimi/DevKit)
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Clerk` `Stripe` `Vercel AI SDK`
+
+AI-powered developer productivity platform with real-time AI streaming and intelligent code analysis.
+
+- Built a cloud-native SaaS application using **Next.js and TypeScript**, integrating **Clerk authentication** and **Stripe billing**.
+- Implemented fault-tolerant, real-time AI response streaming using the **Vercel AI SDK**.
+- Built **RepoMind AI**, a Vector RAG + LLM agent that automates GitHub PR reviews with context-aware code analysis.
+
+### [EliteCourses — AI-Powered E-Learning Platform](https://github.com/razaalikarimi/EliteCourses)
+`MERN` `OpenAI API` `RAG` `Razorpay` `JWT` `MongoDB`
+
+Production e-learning platform serving **200+ users** with AI-powered doubt resolution.
+
+- Integrated the **OpenAI/Gemini API** for AI-powered doubt resolution using **RAG** with YouTube transcript ingestion and semantic chunking.
+- Added **JWT cookie authentication**, RBAC, and student/educator workflows with automated escalation routing.
+- Integrated **Razorpay** payment processing.
+
+### [SnapTalk — Real-Time Chat Application](https://github.com/razaalikarimi/SnapTalk)
+`MERN` `Socket.IO` `WebSockets` `JWT` `Tailwind CSS`
+
+Real-time messaging application focused on fast communication and live presence.
+
+- Built real-time messaging with **WebSockets/Socket.IO**, achieving **sub-100ms message delivery**.
+- Implemented typing indicators, online/offline status tracking, and JWT-secured backend APIs.
+- Validated with **100+ active users**.
+
+---
+
+## Technical Skills
+
+| **Category** | **Technologies** |
+|---|---|
+| **Languages** | JavaScript (ES6+), TypeScript, Java, C#, Python, C++ |
+| **Frontend** | React.js, Next.js, Redux, Tailwind CSS, Bootstrap, HTML5, CSS3 |
+| **Backend** | Node.js, Express.js, ASP.NET Core, .NET Web API, REST APIs, WebSockets |
+| **Auth & Security** | JWT, RBAC, Authentication, Authorization, Middleware |
+| **Databases** | MongoDB, PostgreSQL, MySQL, SQLite, Prisma ORM, Mongoose |
+| **AI / LLM** | OpenAI API, Google Gemini, LLMs, Vector RAG, LangGraph, Prompt Engineering, AI Agents |
+| **Cloud / DevOps** | Docker, AWS, CI/CD, Vercel, Render, Railway |
+| **Tools** | Git, GitHub, Postman, Swagger, VS Code, Agile/Scrum |
+
+---
+
+## Engineering Highlights
+
+- **40%** reduction in production query response time through MongoDB and SQL optimization.
+- **35%** improvement in MongoDB query performance through strategic indexing.
+- **200+ users** served by the EliteCourses platform.
+- **100+ active users** validated on the SnapTalk real-time application.
+- **10+ hours/week** of manual work automated through AI-powered workflows.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=razaalikarimi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaalikarimi&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
+</div>
+
+---
+
+## Education
+
+**B.Tech in Computer Science and Engineering**
+R.P. Sharma Institute of Technology · 2021 – 2025 · **CGPA: 8.14/10**
+
+---
+
+## Certifications & Achievements
+
+**Certifications**
+- MERN Stack Development
+- Full Stack Web Development — NIELIT
+- Node.js Backend Development — Udemy
+- Backend Development — PW Skills
+- Career Essentials in Software Development — Microsoft
+- Career Essentials in Generative AI — Microsoft & LinkedIn
+- Java with DSA and System Design — PW Skills
+
+**Achievements**
+- Solved **150+ problems on LeetCode**
+- Participated in an inter-college hackathon
+
+---
+
+<div align="center">
+
+**Open to Software Engineering, SDE-1, Full Stack, Backend, and Frontend opportunities.**
+
+[LinkedIn](https://linkedin.com/in/ali-raza-karimi) · [GitHub](https://github.com/razaalikarimi) · [Email](mailto:aliraza85211@gmail.com)
+
+</div>
 
 
 
