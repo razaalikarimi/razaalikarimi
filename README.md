@@ -674,7 +674,7 @@ I also work with **OpenAI, Google Gemini, LLMs, Vector RAG, and multi-agent syst
 ## Experience
 
 ### NubeEra Technology — Junior Full Stack Developer
-**Mar 2025 – Present**
+**Jul 2025 – Present**
 
 - Shipped full-stack features using **React.js, Node.js, Express.js, MongoDB, and ASP.NET Core** in an Agile team, implementing **JWT authentication and Role-Based Access Control (RBAC)**.
 - Optimized **MongoDB aggregation pipelines and SQL stored procedures**, cutting production query response times by **40%**.
@@ -682,7 +682,7 @@ I also work with **OpenAI, Google Gemini, LLMs, Vector RAG, and multi-agent syst
 - Built responsive React.js UI components with **Redux** state management, achieving **98% cross-browser compatibility**.
 
 ### KVL Business Solutions — Full Stack Developer Intern
-**Oct 2024 – Jan 2025**
+**Oct 2024 – Mar 2025**
 
 - Built **AI-powered MERN applications** integrating **Google Gemini and OpenAI APIs**, automating workflows and saving **10+ hours of manual work weekly**.
 - Designed scalable REST APIs with Express.js middleware; improved **MongoDB query performance by 35%** through strategic indexing.
