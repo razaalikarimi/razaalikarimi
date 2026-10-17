@@ -3,7 +3,6 @@
 <h3 align="center">
 Full Stack Developer • AI Engineer • MERN Stack • System Design
 </h3>
-
 <p align="center">
 Building scalable applications, AI-powered systems & real-world products.
 </p>
