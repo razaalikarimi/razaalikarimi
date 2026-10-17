@@ -10,7 +10,6 @@ Building scalable applications, AI-powered systems & real-world products.
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Engineer;MERN+Stack+Developer;Backend+Developer;Building+Production+Ready+Applications;Learning+LLMs+%26+Agentic+AI" />
 </p>
-
 ---
 
 # 🚀 About Me
